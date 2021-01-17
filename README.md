@@ -8,7 +8,7 @@ This challenge is organized by @WesBos a full stack developer from Canada. You c
 ## Table Of Contents
 
 | Day # | Project Name        | Live Demo |
-| ------| --------------- --- | :-------: |
+| ----- | ------------------- | :-------: |
 | Day 1 | JavaScript Drum Kit |    ...    |
 
 
