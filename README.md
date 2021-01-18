@@ -1,5 +1,5 @@
 # JavaScript30 - Started: January 17, 2021
-<img src="https://github.com/dyarawilliams/JavaScript30/blob/master/images/javascript30-banner.png?raw=true" >
+<img src="https://github.com/dyarawilliams/JavaScript30/blob/master/images/javascript30-banner.png?raw=true" height="300" >
 
 ## About
 
