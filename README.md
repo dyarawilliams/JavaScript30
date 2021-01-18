@@ -3,12 +3,12 @@
 
 ## About
 
-This challenge is organized by @WesBos a full stack developer from Canada. You can join here, [JavaScript30](https://javascript30.com/).
+This challenge is organized by @WesBos a full stack developer from Canada. You can join here, <a href="https://javascript30.com/" target="_blank">JavaScript30</a>.
 
 ## Table Of Contents
 
-| Day # | Project Name        | Live Demo |
-| ----- | ------------------- | :-------: |
-| Day 1 | JavaScript Drum Kit |    ...    |
+| Day # | Project Name        |                        Live Demo                            |
+| ----- | ------------------- | :---------------------------------------------------------: |
+| Day 1 | JavaScript Drum Kit |    [Demo](https://codepen.io/dyarawilliams/full/poEGbgd)    |
 
 
