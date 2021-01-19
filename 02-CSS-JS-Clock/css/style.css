@@ -1,0 +1,91 @@
+/* Box Model Hack */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*****************************
+* BASE STYLES
+/*******************************************/
+
+body {
+    width: 100%;
+    height: 100vh;
+    background: #00296b;
+    color: #fdc500;
+}
+
+
+/******************************************
+*               LAYOUT
+*******************************************/
+header {
+    padding-top: 1em;
+    font-size: 1.3rem;
+    text-align: center;
+}
+
+.clock {
+    border: 10px solid white;
+    width: 30rem;
+    height: 30rem;
+    border-radius: 50%;
+    margin: 15px auto;
+    padding: 2rem;
+    position: relative;
+
+}
+
+.clock-face {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform: translateY(-3px);
+}
+
+.hand {
+    width: 50%;
+    height: 7px;
+    background-color: black;
+    position: absolute;
+    top: 50%;
+    transform-origin: 100%;
+    transform: rotate(90deg);
+    transition: all 0.05s;
+    transition-timing-function: ease;
+}
+
+.hour-hand {
+    background-color: #fdc500;
+}
+
+.sec-hand {
+    height: 0.2em;
+    background-color: darkred;
+}
+
+.middle {
+    width: 1.5em;
+    height: 1.5em;
+    position: absolute;
+    top: calc(50% - 0.75em);
+    left: 50%;
+    background-color: #fff;
+    border-radius: 50%;
+    transform: translate(-50%);
+}
+
+footer {
+    height: 35px;
+    text-align: center;
+    font-weight: 700;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+.heart-emoji {
+    color: red;
+    font-size: 1.5rem;
+}
