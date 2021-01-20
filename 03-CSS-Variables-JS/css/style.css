@@ -23,6 +23,8 @@ body {
 }
 
 img {
+    width: 100%;
+    height: 70vh;
     padding: var(--spacing);
     background: var(--base);
     filter: blur(var(--blur));
@@ -39,10 +41,6 @@ header {
 
 .controls {
     margin-bottom: 1em;
-}
-
-img {
-    height: 450px;
 }
 
 footer {
