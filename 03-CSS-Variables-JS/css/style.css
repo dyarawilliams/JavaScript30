@@ -1,0 +1,63 @@
+:root {
+    --base: #fdc500;
+    --spacing: 10px;
+    --blur: 10px;
+  }
+
+/* Box Model Hack */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*****************************
+* BASE STYLES
+/*******************************************/
+
+body {
+    text-align: center;
+    background: #00296b;
+    color: white;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+img {
+    padding: var(--spacing);
+    background: var(--base);
+    filter: blur(var(--blur));
+}
+
+/******************************************
+*               LAYOUT
+*******************************************/
+
+header {
+    padding: 2em 0; 
+    text-align: center;
+}
+
+.controls {
+    margin-bottom: 1em;
+}
+
+img {
+    height: 450px;
+}
+
+footer {
+    font-size: 1.15rem;
+    text-align: center;
+}
+
+/******************************************
+*  ADDITIONAL STYLES
+/*******************************************/
+.title-change {
+    color: var(--base);
+}
+
+.heart-emoji {
+    color: red;
+    font-size: 1.5rem;
+}
