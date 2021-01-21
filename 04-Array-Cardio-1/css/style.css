@@ -1,0 +1,57 @@
+/* Box Model Hack */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/******************************************
+* BASE STYLES
+*******************************************/
+
+body {
+  font-family: "Segoe UI", sans-serif;
+}
+
+/******************************************
+* LAYOUT
+*******************************************/
+header {
+  margin: 1em 2em;
+  padding: 2em;
+  text-align: center;
+  letter-spacing: 2px;
+  color: #fdc500;
+}
+
+section {
+    height: 55vh;
+}
+
+section p {
+    text-align: center;
+}
+section p:hover {
+    transform: scale(2);
+}
+
+footer {
+  height: 55px;
+  margin-top: 3em;
+  padding: 1em;
+  background-color: #fdc500;
+}
+
+footer p {
+  text-align: center;
+  font-weight: 700;
+}
+
+/******************************************
+* ADDITIONAL STYLES
+*******************************************/
+
+.heart-emoji {
+  color: red;
+  font-size: 1.25rem;
+}
