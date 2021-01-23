@@ -14,3 +14,4 @@ This challenge is organized by @WesBos a full stack developer from Canada. You c
 | Day 3  |  CSS Variables & JS | [Demo](https://codepen.io/dyarawilliams/full/xxEBYNW)   |
 | Day 4  |  Array Cardio Day 1 | [Demo](https://codepen.io/dyarawilliams/full/oNzOmwW)   |
 | Day 5  |  Flex Panel Gallery | [Demo](https://codepen.io/dyarawilliams/full/JjRqNPd)   |
+| Day 6  |   AJAX Type Ahead   | [Demo](https://codepen.io/dyarawilliams/full/WNGBXoN)   |
