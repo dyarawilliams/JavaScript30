@@ -17,3 +17,6 @@ This challenge is organized by @WesBos a full stack developer from Canada. You c
 | Day 6  |   AJAX Type Ahead   | [Demo](https://codepen.io/dyarawilliams/full/WNGBXoN)   |
 | Day 7  |  Array Cardio Day 2 | [Demo](https://codepen.io/dyarawilliams/pen/yLadgmM)    |
 | Day 8  | Fun w/ HTML5 Canvas | [Demo](https://codepen.io/dyarawilliams/full/wvzLdKP)   |
+| Day 9  | Dev Tools Domination| [Demo](https://codepen.io/dyarawilliams/full/zYoOZap)   |
+| Day 10 |Hold Shift And Check Checkboxes | [Demo](https://codepen.io/dyarawilliams/full/bGBdpjE)   |
+| Day 11  | Custom Video Player | [Demo](https://codepen.io/dyarawilliams/full/abBONPj)   |
