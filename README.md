@@ -7,7 +7,7 @@ This challenge is organized by @WesBos a full stack developer from Canada. You c
 
 ## Table Of Contents
 
-| Day #  | Project Name        |                     Live Demo                           |
+| Day #  |    Project Name     |                     Live Demo                           |
 | :----: | :-----------------: | :-----------------------------------------------------: |
 | Day 1  | JavaScript Drum Kit | [Demo](https://codepen.io/dyarawilliams/full/poEGbgd)   |
 | Day 2  |   CSS + JS Clock    | [Demo](https://codepen.io/dyarawilliams/full/oNzmVrX)   |
@@ -18,5 +18,8 @@ This challenge is organized by @WesBos a full stack developer from Canada. You c
 | Day 7  |  Array Cardio Day 2 | [Demo](https://codepen.io/dyarawilliams/pen/yLadgmM)    |
 | Day 8  | Fun w/ HTML5 Canvas | [Demo](https://codepen.io/dyarawilliams/full/wvzLdKP)   |
 | Day 9  | Dev Tools Domination| [Demo](https://codepen.io/dyarawilliams/full/zYoOZap)   |
-| Day 10 |Hold Shift And Check Checkboxes | [Demo](https://codepen.io/dyarawilliams/full/bGBdpjE)   |
-| Day 11  | Custom Video Player | [Demo](https://codepen.io/dyarawilliams/full/abBONPj)   |
+| Day 10 | Hold Shift And Check Checkboxes | [Demo](https://codepen.io/dyarawilliams/full/bGBdpjE)   |
+| Day 11 | Custom Video Player | [Demo](https://codepen.io/dyarawilliams/full/abBONPj)   |
+| Day 12 | Key Sequence Detection |[ Demo](https://dyarawilliams.github.io/JavaScript30/12-Key-Sequence-Detection/)   |
+| Day 13 | Slide In On Scroll | [Demo](https://dyarawilliams.github.io/JavaScript30/13-Slide-In-On-Scroll/)   |
+| Day 14 | JavaScript Reference VS Copying | [Demo](https://dyarawilliams.github.io/JavaScript30/14-JavaScript-References-VS-Copying/)  |
