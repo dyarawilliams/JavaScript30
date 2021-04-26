@@ -23,3 +23,4 @@ This challenge is organized by @WesBos a full stack developer from Canada. You c
 | Day 12 | Key Sequence Detection |[ Demo](https://dyarawilliams.github.io/JavaScript30/12-Key-Sequence-Detection/)   |
 | Day 13 | Slide In On Scroll | [Demo](https://dyarawilliams.github.io/JavaScript30/13-Slide-In-On-Scroll/)   |
 | Day 14 | JavaScript Reference VS Copying | [Demo](https://dyarawilliams.github.io/JavaScript30/14-JavaScript-References-VS-Copying/)  |
+| Day 15 |  Local Storage  | [Demo](https://dyarawilliams.github.io/JavaScript30/15-LocalStorage/) |
