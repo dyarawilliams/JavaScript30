@@ -12,6 +12,7 @@
 body {
   font-family: 'Segoe UI', sans-serif;
   background-color: #ea8a95;
+  color: black;
 }
 
 /*************************************
@@ -49,6 +50,7 @@ header {
 }
 
 .challenge-item a {
+    padding: 2rem;
     text-decoration: none;
     color: black;
     font-size: 1.25rem;
@@ -68,3 +70,8 @@ footer p {
 /*********************************
         ADDITIONAL STYLES
   ******************************/
+
+  .heart-emoji {
+    color: red;
+    font-size: 20px;
+  }
